@@ -1,0 +1,32 @@
+What is telecommunication?
+    - telecommunication (in Australia) refers to communication through electronic means, such as telephone, television, radio or computer.
+
+What is the aim of this project?
+    - to map telecommunication connectivity in the regions in which REED operates or may operate in the future
+    - to identify opportunities to improve telecommunication methods across the services    
+    - to identifyntify opportunities to hardness existing telecommunication methods to enhance internal/external communications
+    - establish costings associated with implimenting any opportunities identified
+
+Project plan:
+    week 3-6:
+        - map telecommunication connectivity in the area. Look at black spots provided by telstra, compare telstra data to actual anecdotal data.
+        - make contact with professionals to ask about the telecommunication in their area, and discuss what form of connection they use (whether it be NBN or other), and map out this data
+        - prepare questions to ask
+        - research what local projects in the regions we could use
+    week 6-9:
+        - begin to identify opportunities
+
+Speech for 
+
+Hi,
+I'm Jeremy and I am working with REED via the mccusker internship center to investigate the current state of telecommunication amongst rural regions in areas such as wheatbelt. `
+
+Questions:
+    1. How is your internet on a daily basis?
+    2. How is your phone on a daily basis?
+    3. Does reception work equally well in your town or do some areas have much better reception than others?
+    4. Is it easy to communicate with people in other towns and people in perth
+    5. Do you feel connected to the world?
+
+Extra questions for people who have knowledge of telecommunication
+    
